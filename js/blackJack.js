@@ -86,7 +86,7 @@ function cleanUp() {
     playerAces = 0;
     dealerAces = 0;
     if (currentDeck.length < 20) {
-        fetch("/js/cards.json")
+        fetch("js/cards.json")
         .then(res => res.json())
         .then(json => shuffle(json))
     }
@@ -101,6 +101,7 @@ function cleanUp() {
 }
 
 function gameOver() {
+    endGame()
     document.getElementById("bank-empty").style.display = "flex"
     document.getElementById("blackjack-controls").style.display = "none"
 }
@@ -395,15 +396,18 @@ function hideControls() {
 const leaveTable = document.getElementById("leave-table")
 
 function endGame() {
-
+    document.getElementById('canvas').style.display = 'none'
+    document.getElementById('blackjack-controls').style.display = 'none'
+    document.getElementById('bank').style.display = 'none'
+    document.getElementById('pot').style.display = 'none'
     if (bank > 500) {
         winLoss.innerText = `Congrats. You managed to make it out with $${bank}, making your total winnings $${bank-500}! Come back again!`
     } else if (bank == 500) {
         winLoss.innerText = `Wow, you didn't lose money, and you didn't win any either. Good job, I guess?`
     } else if (bank < 500) {
-        winLoss.innerText = `Damn, you lost $${500-bank}. Well at least you still have some cash. Well played.`
+        winLoss.innerText = `Damn, you lost $${500-bank}.`
     } 
-
+    document.getElementById('tyler').style.display = 'flex'
 }
 
 leaveTable.addEventListener("click", endGame)
