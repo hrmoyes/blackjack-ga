@@ -1,0 +1,211 @@
+body {
+    background-color: lightsteelblue;
+}
+
+ canvas {
+    background-color: aliceblue;
+    height: 80%;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
+    height: 500px;
+    position: relative;
+}
+
+#blackjack-controls {
+    display: none;
+}
+
+#bank {
+    position: absolute;
+    top: 16%;
+    left: 30px;
+    background-color: whitesmoke;
+    border: 6px solid #a312b1;
+    display: none;
+}
+
+#pot {
+    position: absolute;
+    top: 83%;
+    left: 385px;
+    display: none;
+}
+.menu-button {
+    border: none;
+    appearance: none;
+    outline: none;
+    display: inline-block;
+    font-size: 1.5em;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 12px 54px 12px 54px;
+    border-radius: 4px;
+    color: #ffffff;
+    background-color: #ee0d51;
+    border: 2px solid #ffffff;
+    margin-bottom: 15px;
+} 
+.menu-button {    transition-duration: 0.4s; }
+.menu-button:hover {
+    font-size: 1.6em;
+    background-color: #0ea860;
+}
+
+
+.canvas-container {
+    position: relative;
+    width: 800px;
+    height: 500px;
+}
+
+#canvas {
+    position: absolute;
+    background-color:lightgrey
+}
+
+button {
+    position:absolute;
+
+}
+#play-blackjack {
+    position:absolute;
+    left:250px;
+    top:40%
+  }
+  
+#lazy-asset-holder {
+    display: none;
+}
+
+#leave-table {
+    left: 700px;
+    top: 95%;
+}
+
+.chip {
+    display:block;
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+    border: 1px solid red;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+#chip-5 {
+    left: 100px;
+    top: 400px;
+    background-color: #1761d1;
+}
+
+#chip-10 {
+    left: 140px;
+    top: 440px;
+    background-color: #a80e1b;
+
+}
+
+#chip-25 {
+    left: 190px;
+    top: 475px;
+    background-color: #0c9153;
+
+}
+
+#chip-100 {
+    left: 245px;
+    top: 500px;
+    background-color: #030504;
+    font-size: 16px;
+}
+
+#remove-bets {
+    height: 50px;
+    width: 100px;
+    left: 75px;
+    top: 340px;
+    background-color: #495219;
+    font-size: 12px;
+    border-radius: 15px;
+}
+
+#player-hand {
+    position: absolute;
+    height: 66.4px;
+    width: 406.6px;
+    left: 347px;
+    top: 260px;
+    display: inline;
+}
+
+#dealer-hand {
+    position: absolute;
+    height: 66.4px;
+    width: 406.6px;
+    left: 347px;
+    top: 140px;
+    display: inline;
+}
+
+.control {
+    position: absolute;
+    cursor: pointer;
+    border: #1761d1 2px solid;
+    background-color: lightsteelblue;
+    font-weight: bold;
+}
+
+#win-loss-msg {
+    position: absolute;
+    top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#hit {
+    left: 365px;
+    top: 500px;
+}
+
+#stay {
+    left: 405px;
+    top: 500px;
+}
+
+#split {
+    left: 355px;
+    top: 540px;
+}
+
+#double {
+    left: 405px;
+    top: 540px;
+}
+
+#bet {
+    left: 480px;
+    top: 480px;
+}
+
+#deal {
+    left: 480px;
+    top: 510px;
+}
+
+.card-img {
+    width: 84px;
+    height: 106px;
+}
+
+#bank-empty {
+    font-size: 100px;
+    left: 20px;
+    position: absolute;
+    display: none;
+}

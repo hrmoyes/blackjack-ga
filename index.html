@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Vegas Casino</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/style.css">
+        <script src="js/appStart.js" defer></script>
+        <script src="js/blackJack.js" defer></script>
+        <script src="js/roulette.js" defer></script>
+    </head>
+    <body>
+        <div class="canvas-container">
+            <p id="win-loss-msg"></p>
+            <canvas id='canvas'></canvas>
+
+
+           <button id='play-blackjack' onclick="playBlackjack()" class="menu-button">Play Blackjack</button> 
+           <h3 id="bank">Bank: </h3>
+           <p id="bank-empty">YOU'RE OUT OF MONEY YOU LOSE</p>
+           <h3 id="pot">$0</h3>
+           <div id="blackjack-controls">
+                <button id="leave-table">Leave Table</button>
+
+                <button id="remove-bets" class="chip">Reset Current Bet</button>
+                <button id="chip-5" class="chip">$5</button>
+                <button id="chip-10" class="chip">$10</button>
+                <button id="chip-25" class="chip">$25</button>
+                <button id="chip-100" class="chip">$100</button>
+
+                <button id="hit" class="control options">Hit</button>
+                <button id="stay" class="control options">Stay</button>
+                
+                <!-- <button id="split" class="control options">Split</button>
+                <button id="double" class="control options">Double</button> -->
+
+                
+                <button id="deal" class="control better">Place Bet</button>
+
+                <div id="dealer-hand">
+
+                </div>
+            
+                <div id="player-hand">
+
+                </div>
+                
+                
+           </div>
+           <p id="win-loss-msg"></p>
+        </div>  
+       <div id="lazy-asset-holder">
+            <img id="blackjack-table" src="/js/assets/blackjack-table.png">
+       </div>
+    </body>
+</html>
