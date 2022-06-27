@@ -7,7 +7,7 @@ const blackJackBtn = document.getElementById("play-blackjack")
 
 blackJackBtn.addEventListener("click", () => {
     console.log("clicked")
-    fetch("/js/cards.json")
+    fetch("js/cards.json")
         .then(res => res.json())
         .then(json => shuffle(json))
         .catch()
