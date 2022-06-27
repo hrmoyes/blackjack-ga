@@ -2,277 +2,277 @@
     {
       "suit": "hearts",
       "value": 2,
-      "image": "/js/assets/hearts_2.svg"
+      "image": "js/assets/hearts_2.svg"
     },
     {
       "suit": "hearts",
       "value": 3,
-      "image": "/js/assets/hearts_3.svg"
+      "image": "js/assets/hearts_3.svg"
     },
     {
       "suit": "hearts",
       "value": 4,
-      "image": "/js/assets/hearts_4.svg"
+      "image": "js/assets/hearts_4.svg"
     },
     {
       "suit": "hearts",
       "value": 5,
-      "image": "/js/assets/hearts_5.svg"
+      "image": "js/assets/hearts_5.svg"
     },
     {
       "suit": "hearts",
       "value": 6,
-      "image": "/js/assets/hearts_6.svg"
+      "image": "js/assets/hearts_6.svg"
     },
     {
       "suit": "hearts",
       "value": 7,
-      "image": "/js/assets/hearts_7.svg"
+      "image": "js/assets/hearts_7.svg"
     },
     {
       "suit": "hearts",
       "value": 8,
-      "image": "/js/assets/hearts_8.svg"
+      "image": "js/assets/hearts_8.svg"
     },
     {
       "suit": "hearts",
       "value": 9,
-      "image": "/js/assets/hearts_9.svg"
+      "image": "js/assets/hearts_9.svg"
     },
     {
       "suit": "hearts",
       "value": 10,
-      "image": "/js/assets/hearts_10.svg"
+      "image": "js/assets/hearts_10.svg"
     },
     {
       "suit": "hearts",
       "value": 10,
       "extra": "Jack",
-      "image": "/js/assets/hearts_jack.svg"
+      "image": "js/assets/hearts_jack.svg"
     },
     {
       "suit": "hearts",
       "value": 10,
       "extra": "Queen",
-      "image": "/js/assets/hearts_queen.svg"
+      "image": "js/assets/hearts_queen.svg"
     },
     {
       "suit": "hearts",
       "value": 10,
       "extra": "King",
-      "image": "/js/assets/hearts_king.svg"
+      "image": "js/assets/hearts_king.svg"
     },
     {
       "suit": "hearts",
       "value": 11,
       "extra": "Ace",
-      "image": "/js/assets/hearts_ace.svg"
+      "image": "js/assets/hearts_ace.svg"
     },
     {
       "suit": "diamonds",
       "value": 2,
-      "image": "/js/assets/diamonds_2.svg"
+      "image": "js/assets/diamonds_2.svg"
     },
     {
       "suit": "diamonds",
       "value": 3,
-      "image": "/js/assets/diamonds_3.svg"
+      "image": "js/assets/diamonds_3.svg"
     },
     {
       "suit": "diamonds",
       "value": 4,
-      "image": "/js/assets/diamonds_4.svg"
+      "image": "js/assets/diamonds_4.svg"
     },
     {
       "suit": "diamonds",
       "value": 5,
-      "image": "/js/assets/diamonds_5.svg"
+      "image": "js/assets/diamonds_5.svg"
     },
     {
       "suit": "diamonds",
       "value": 6,
-      "image": "/js/assets/diamonds_6.svg"
+      "image": "js/assets/diamonds_6.svg"
     },
     {
       "suit": "diamonds",
       "value": 7,
-      "image": "/js/assets/diamonds_7.svg"
+      "image": "js/assets/diamonds_7.svg"
     },
     {
       "suit": "diamonds",
       "value": 8,
-      "image": "/js/assets/diamonds_8.svg"
+      "image": "js/assets/diamonds_8.svg"
     },
     {
       "suit": "diamonds",
       "value": 9,
-      "image": "/js/assets/diamonds_9.svg"
+      "image": "js/assets/diamonds_9.svg"
     },
     {
       "suit": "diamonds",
       "value": 10,
-      "image": "/js/assets/diamonds_10.svg"
+      "image": "js/assets/diamonds_10.svg"
     },
     {
       "suit": "diamonds",
       "value": 10,
       "extra": "Jack",
-      "image": "/js/assets/diamonds_jack.svg"
+      "image": "js/assets/diamonds_jack.svg"
     },
     {
       "suit": "diamonds",
       "value": 10,
       "extra": "Queen",
-      "image": "/js/assets/diamonds_queen.svg"
+      "image": "js/assets/diamonds_queen.svg"
     },
     {
       "suit": "diamonds",
       "value": 10,
       "extra": "King",
-      "image": "/js/assets/diamonds_king.svg"
+      "image": "js/assets/diamonds_king.svg"
     },
     {
       "suit": "diamonds",
       "value": 11,
       "extra": "Ace",
-      "image": "/js/assets/diamonds_ace.svg"
+      "image": "js/assets/diamonds_ace.svg"
     },
     {
       "suit": "clubs",
       "value": 2,
-      "image": "/js/assets/clubs_2.svg"
+      "image": "js/assets/clubs_2.svg"
     },
     {
       "suit": "clubs",
       "value": 3,
-      "image": "/js/assets/clubs_3.svg"
+      "image": "js/assets/clubs_3.svg"
     },
     {
       "suit": "clubs",
       "value": 4,
-      "image": "/js/assets/clubs_4.svg"
+      "image": "js/assets/clubs_4.svg"
     },
     {
       "suit": "clubs",
       "value": 5,
-      "image": "/js/assets/clubs_5.svg"
+      "image": "js/assets/clubs_5.svg"
     },
     {
       "suit": "clubs",
       "value": 6,
-      "image": "/js/assets/clubs_6.svg"
+      "image": "js/assets/clubs_6.svg"
     },
     {
       "suit": "clubs",
       "value": 7,
-      "image": "/js/assets/clubs_7.svg"
+      "image": "js/assets/clubs_7.svg"
     },
     {
       "suit": "clubs",
       "value": 8,
-      "image": "/js/assets/clubs_8.svg"
+      "image": "js/assets/clubs_8.svg"
     },
     {
       "suit": "clubs",
       "value": 9,
-      "image": "/js/assets/clubs_9.svg"
+      "image": "js/assets/clubs_9.svg"
     },
     {
       "suit": "clubs",
       "value": 10,
-      "image": "/js/assets/clubs_10.svg"
+      "image": "js/assets/clubs_10.svg"
     },
     {
       "suit": "clubs",
       "value": 10,
       "extra": "Jack",
-      "image": "/js/assets/clubs_jack.svg"
+      "image": "js/assets/clubs_jack.svg"
     },
     {
       "suit": "clubs",
       "value": 10,
       "extra": "Queen",
-      "image": "/js/assets/clubs_queen.svg"
+      "image": "js/assets/clubs_queen.svg"
     },
     {
       "suit": "clubs",
       "value": 10,
       "extra": "King",
-      "image": "/js/assets/clubs_king.svg"
+      "image": "js/assets/clubs_king.svg"
     },
     {
       "suit": "clubs",
       "value": 11,
       "extra": "Ace",
-      "image": "/js/assets/clubs_ace.svg"
+      "image": "js/assets/clubs_ace.svg"
     },
     {
       "suit": "spades",
       "value": 2,
-      "image": "/js/assets/spades_2.svg"
+      "image": "js/assets/spades_2.svg"
     },
     {
       "suit": "spades",
       "value": 3,
-      "image": "/js/assets/spades_3.svg"
+      "image": "js/assets/spades_3.svg"
     },
     {
       "suit": "spades",
       "value": 4,
-      "image": "/js/assets/spades_4.svg"
+      "image": "js/assets/spades_4.svg"
     },
     {
       "suit": "spades",
       "value": 5,
-      "image": "/js/assets/spades_5.svg"
+      "image": "js/assets/spades_5.svg"
     },
     {
       "suit": "spades",
       "value": 6,
-      "image": "/js/assets/spades_6.svg"
+      "image": "js/assets/spades_6.svg"
     },
     {
       "suit": "spades",
       "value": 7,
-      "image": "/js/assets/spades_7.svg"
+      "image": "js/assets/spades_7.svg"
     },
     {
       "suit": "spades",
       "value": 8,
-      "image": "/js/assets/spades_8.svg"
+      "image": "js/assets/spades_8.svg"
     },
     {
       "suit": "spades",
       "value": 9,
-      "image": "/js/assets/spades_9.svg"
+      "image": "js/assets/spades_9.svg"
     },
     {
       "suit": "spades",
       "value": 10,
-      "image": "/js/assets/spades_10.svg"
+      "image": "js/assets/spades_10.svg"
     },
     {
       "suit": "spades",
       "value": 10,
       "extra": "Jack",
-      "image": "/js/assets/spades_jack.svg"
+      "image": "js/assets/spades_jack.svg"
     },
     {
       "suit": "spades",
       "value": 10,
       "extra": "Queen",
-      "image": "/js/assets/spades_queen.svg"
+      "image": "js/assets/spades_queen.svg"
     },
     {
       "suit": "spades",
       "value": 10,
       "extra": "King",
-      "image": "/js/assets/spades_king.svg"
+      "image": "js/assets/spades_king.svg"
     },
     {
       "suit": "spades",
       "value": 11,
       "extra": "Ace",
-      "image": "/js/assets/spades_ace.svg"
+      "image": "js/assets/spades_ace.svg"
     }
   ]
