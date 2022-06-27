@@ -215,7 +215,7 @@ function dealerBlankCard() {
     console.log("dealer blank")
 
     let blankCard = document.createElement('img')
-    blankCard.src = "/js/assets/card-back.svg"
+    blankCard.src = "js/assets/card-back.svg"
     blankCard.classList.add("card-img")
     blankCard.setAttribute('id', 'to-be-flipped')
 
